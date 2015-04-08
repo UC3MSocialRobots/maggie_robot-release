@@ -1,12 +1,6 @@
 # maggie_robot
 
-GitHub repository for the Social Robot Maggie.
-
-## CONTENT
-
-- `maggie_bringup`: a ROS package with the launch and config files necessary to start the robot.
-- `maggie_description`: a ROS package with the URDF model of the robot (pending).
-- `maggie_robot`: a ROS metapackage.
+ROS metapackage for the Social Robot Maggie.
 
 ## LICENSE
 
