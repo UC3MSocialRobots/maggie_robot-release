@@ -1,6 +1,6 @@
 # Authors and Contributors
 
-maggie_robot was designed and developed by the Social Robots Group at Robotics Lab, UC3M (Spain).
+maggie_robot metapackage was designed and developed by the Social Robots Group at Robotics Lab, UC3M (Spain).
 
 ### Current Team
 
